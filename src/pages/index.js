@@ -30,7 +30,7 @@ const IndexPage = () => {
       <Hero
         maxWidth={'500px'}
         image={'/slide-1.jpg'}
-        title={'Essentials for a cold winter'}
+        title={'Welcome to Dignity Mens Parlour'}
         subtitle={'Discover Autumn Winter 2021'}
         ctaText={'shop now'}
         ctaAction={goToShop}
