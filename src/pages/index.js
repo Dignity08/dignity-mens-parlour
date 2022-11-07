@@ -31,7 +31,7 @@ const IndexPage = () => {
         maxWidth={'500px'}
         image={'/slide-1.jpg'}
         title={'Welcome to Dignity Mens Parlour'}
-        subtitle={'Discover Autumn Winter 2021'}
+        subtitle={'Best Mens Parlour in Nirmal'}
         ctaText={'shop now'}
         ctaAction={goToShop}
       />
